@@ -1,4 +1,24 @@
+![1](https://user-images.githubusercontent.com/66241934/83455742-b80d9380-a45e-11ea-86e8-b48ea65693e9.jpg)
+![2](https://user-images.githubusercontent.com/66241934/83455744-b80d9380-a45e-11ea-8564-859d3e364f64.jpg)
+![3](https://user-images.githubusercontent.com/66241934/83455745-b8a62a00-a45e-11ea-9b8b-202a644b1800.jpg)
+![4](https://user-images.githubusercontent.com/66241934/83455747-b8a62a00-a45e-11ea-8764-22d35f39ce76.jpg)
+![5](https://user-images.githubusercontent.com/66241934/83455749-b93ec080-a45e-11ea-8118-09aa52028bb2.jpg)
+
+![6](https://user-images.githubusercontent.com/66241934/83455731-b5ab3980-a45e-11ea-96c4-4dc9fff4dd4a.jpg)
+![7](https://user-images.githubusercontent.com/66241934/83455733-b6dc6680-a45e-11ea-8363-b2ab18b975c9.jpg)
+![8](https://user-images.githubusercontent.com/66241934/83455736-b774fd00-a45e-11ea-84d5-0f08f32bdf17.jpg)
+![9](https://user-images.githubusercontent.com/66241934/83455740-b774fd00-a45e-11ea-85a1-f8a1bd080552.jpg)
+
+
+[bd_practica4.txt](https://github.com/Pedroshky/TE2_practica4/files/4713499/bd_practica4.txt)
+
+
+
+
 # TE2_practica4-- phpMyAdmin SQL Dump
+
+
+
 -- version 4.9.1
 -- https://www.phpmyadmin.net/
 --
